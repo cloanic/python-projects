@@ -1,3 +1,4 @@
+#import requests (pip install requests, pprint)
 import requests
 from pprint import pprint
 

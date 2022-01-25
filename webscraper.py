@@ -1,3 +1,4 @@
+#import requests and bs4 from pip
 import requests
 from bs4 import BeautifulSoup as bs
 #input in terminal
